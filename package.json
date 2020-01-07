@@ -1,5 +1,6 @@
 {
   "name": "js",
+  "author": "Gino stern",
   "version": "1.0.0",
   "description": "code project",
   "main": "index.js",
@@ -10,7 +11,6 @@
     "type": "git",
     "url": "git+https://github.com/G-stern/codeCamp.git"
   },
-  "author": "Gino stern",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/G-stern/codeCamp/issues"
